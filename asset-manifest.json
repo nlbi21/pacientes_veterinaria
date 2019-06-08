@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pacientes_veterinaria/static/css/main.e1071b3f.chunk.css",
+    "main.js": "/pacientes_veterinaria/static/js/main.6718e4ec.chunk.js",
+    "main.js.map": "/pacientes_veterinaria/static/js/main.6718e4ec.chunk.js.map",
+    "runtime~main.js": "/pacientes_veterinaria/static/js/runtime~main.0e95bc27.js",
+    "runtime~main.js.map": "/pacientes_veterinaria/static/js/runtime~main.0e95bc27.js.map",
+    "static/js/2.06c4234b.chunk.js": "/pacientes_veterinaria/static/js/2.06c4234b.chunk.js",
+    "static/js/2.06c4234b.chunk.js.map": "/pacientes_veterinaria/static/js/2.06c4234b.chunk.js.map",
+    "index.html": "/pacientes_veterinaria/index.html",
+    "precache-manifest.5b3fe6aa9e6bf75d94148b8643d73ac9.js": "/pacientes_veterinaria/precache-manifest.5b3fe6aa9e6bf75d94148b8643d73ac9.js",
+    "service-worker.js": "/pacientes_veterinaria/service-worker.js",
+    "static/css/main.e1071b3f.chunk.css.map": "/pacientes_veterinaria/static/css/main.e1071b3f.chunk.css.map"
+  }
+}
